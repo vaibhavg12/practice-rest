@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: vb.practice.rest.spring.boot.service.TargetServiceImplTest
--------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.213 s - in vb.practice.rest.spring.boot.service.TargetServiceImplTest

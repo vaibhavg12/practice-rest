@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79f56888-61b8-419d-b1cf-ed15356fc9e5" name="Default Changelist" comment="" />
+    <list default="true" id="79f56888-61b8-419d-b1cf-ed15356fc9e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/vb/practice/rest/spring/boot/service/TargetServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/vb/practice/rest/spring/boot/service/TargetServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-vb.practice.rest.spring.boot.rest.TargetControllerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-vb.practice.rest.spring.boot.rest.TargetControllerTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-vb.practice.rest.spring.boot.service.TargetServiceImplTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-vb.practice.rest.spring.boot.service.TargetServiceImplTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/vb.practice.rest.spring.boot.rest.TargetControllerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/vb.practice.rest.spring.boot.rest.TargetControllerTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/vb.practice.rest.spring.boot.service.TargetServiceImplTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/vb.practice.rest.spring.boot.service.TargetServiceImplTest.txt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +27,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/vb/practice/rest/spring/boot/service/TargetServiceImplTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="90" column="51" selection-start-line="90" selection-start-column="51" selection-end-line="90" selection-end-column="51" />
+            <state relative-caret-position="249">
+              <caret line="104" column="9" lean-forward="true" selection-start-line="104" selection-start-column="9" selection-end-line="104" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1564#1565#0" expanded="true" />
@@ -38,10 +47,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="-31">
               <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
             </state>
           </provider>
@@ -85,11 +94,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/vb/practice/rest/spring/boot/service/internal/TargetServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
+            <state relative-caret-position="284">
               <caret line="48" column="102" selection-start-line="48" selection-start-column="102" selection-end-line="48" selection-end-column="102" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -113,7 +131,14 @@
       <find>400</find>
       <find>exception</find>
       <find>precondi</find>
+      <find>testUpdateTarget</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/test/java/vb/practice/rest/spring/boot/service</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -145,6 +170,8 @@
         <option value="$PROJECT_DIR$/src/main/java/vb/practice/rest/practice/rest/repository/TargetRepository.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/vb/practice/rest/spring/boot/service/TargetServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -161,6 +188,7 @@
     <option name="width" value="1440" />
     <option name="height" value="827" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -173,32 +201,6 @@
               <item name="practice-rest" type="b2602c69:ProjectViewProjectNode" />
               <item name="practice-rest" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="practice-rest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice-rest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice-rest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice-rest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice-rest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice-rest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice-rest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice-rest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="boot" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -208,6 +210,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
@@ -237,23 +240,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TargetControllerTest.testUpdateTargetNoInformation">
-    <configuration name="TargetControllerTest.testUpdateTargetIdParam" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="practice-rest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="vb.practice.rest.practice.rest.rest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="vb.practice.rest.practice.rest.rest" />
-      <option name="MAIN_CLASS_NAME" value="vb.practice.rest.practice.rest.rest.TargetControllerTest" />
-      <option name="METHOD_NAME" value="testUpdateTargetIdParam" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TargetServiceImplTest.testUpdateTarget">
     <configuration name="TargetControllerTest.testUpdateTargetLargePayload" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="practice-rest" />
       <extension name="coverage">
@@ -318,13 +305,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TargetServiceImplTest.testUpdateTarget" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice-rest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vb.practice.rest.spring.boot.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="vb.practice.rest.spring.boot.service" />
+      <option name="MAIN_CLASS_NAME" value="vb.practice.rest.spring.boot.service.TargetServiceImplTest" />
+      <option name="METHOD_NAME" value="testUpdateTarget" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TargetServiceImplTest.testUpdateTarget" />
         <item itemvalue="JUnit.TargetControllerTest.testUpdateTargetNoInformation" />
         <item itemvalue="JUnit.TargetControllerTest.testUpdateTargetNoApi" />
         <item itemvalue="JUnit.TargetControllerTest.testUpdateTargetLargePayload" />
         <item itemvalue="JUnit.TargetControllerTest.testUpdateTargetNoBody" />
-        <item itemvalue="JUnit.TargetControllerTest.testUpdateTargetIdParam" />
       </list>
     </recent_temporary>
   </component>
@@ -342,9 +345,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TargetControllerTest_testUpdateTargetNoBody - 2019.09.18 at 22h 16m 46s.xml">
-      <configuration name="TargetControllerTest.testUpdateTargetNoBody" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TargetControllerTest_testUpdateTargetNoInformation - 2019.09.18 at 22h 17m 28s.xml">
       <configuration name="TargetControllerTest.testUpdateTargetNoInformation" configurationId="JUnit" />
     </history-entry>
@@ -372,18 +372,22 @@
     <history-entry file="TargetControllerTest_testUpdateTargetNoInformation - 2019.09.18 at 22h 56m 34s.xml">
       <configuration name="TargetControllerTest.testUpdateTargetNoInformation" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TargetServiceImplTest_testUpdateTarget - 2019.09.18 at 23h 36m 06s.xml">
+      <configuration name="TargetServiceImplTest.testUpdateTarget" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="827" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Designer" />
       <window_info id="simpleUML" show_stripe_button="false" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Problems" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.27891156" />
+      <window_info anchor="bottom" id="Version Control" weight="0.3292517" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.27891156" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.3292517" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -632,32 +636,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/vb/practice/rest/spring/boot/service/TargetServiceImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="90" column="51" selection-start-line="90" selection-start-column="51" selection-end-line="90" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1564#1565#0" expanded="true" />
-            <element signature="e#1627#1628#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/vb/practice/rest/spring/boot/service/TargetService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vb/practice/rest/spring/boot/service/internal/TargetServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="48" column="102" selection-start-line="48" selection-start-column="102" selection-end-line="48" selection-end-column="102" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -692,8 +674,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="-31">
           <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/vb/practice/rest/spring/boot/service/TargetServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="104" column="9" lean-forward="true" selection-start-line="104" selection-start-column="9" selection-end-line="104" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1564#1565#0" expanded="true" />
+            <element signature="e#1627#1628#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/vb/practice/rest/spring/boot/service/internal/TargetServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="48" column="102" selection-start-line="48" selection-start-column="102" selection-end-line="48" selection-end-column="102" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
         </state>
       </provider>
     </entry>

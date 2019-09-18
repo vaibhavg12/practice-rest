@@ -106,6 +106,7 @@ public class TargetServiceImplTest {
     public void testUpdateTarget() throws SQLException {
         byte[] information = "hello".getBytes();
         Blob blob = new SerialBlob(information);
+        Mockito.when(mockRepository.findById(1L)).thenReturn(java.util.Optional.of(mockTarget));
         Mockito.when(mockRepository.update(1L, blob)).thenReturn(1);
 
         int expected = targetService.updateTarget(1L, information);

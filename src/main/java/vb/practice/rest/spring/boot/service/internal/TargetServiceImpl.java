@@ -22,9 +22,6 @@ import static vb.practice.rest.spring.boot.utils.MessageUtil.TARGET_ID_NULL;
 @Transactional
 public class TargetServiceImpl implements TargetService {
 
-
-    // think about information data type
-
     @Autowired
     private final TargetRepository targetRepository;
 

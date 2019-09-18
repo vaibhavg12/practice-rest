@@ -1,0 +1,10 @@
+/Users/vibes/Desktop/practice-rest/src/main/java/vb/practice/rest/spring/boot/repository/TargetRepository.java
+/Users/vibes/Desktop/practice-rest/src/main/java/vb/practice/rest/spring/boot/service/internal/TargetServiceImpl.java
+/Users/vibes/Desktop/practice-rest/src/main/java/vb/practice/rest/spring/boot/PracticeRestApplication.java
+/Users/vibes/Desktop/practice-rest/src/main/java/vb/practice/rest/spring/boot/utils/MessageUtil.java
+/Users/vibes/Desktop/practice-rest/src/main/java/vb/practice/rest/spring/boot/rest/exception/PayloadSizeException.java
+/Users/vibes/Desktop/practice-rest/src/main/java/vb/practice/rest/spring/boot/model/Target.java
+/Users/vibes/Desktop/practice-rest/src/main/java/vb/practice/rest/spring/boot/rest/exception/PreConditionException.java
+/Users/vibes/Desktop/practice-rest/src/main/java/vb/practice/rest/spring/boot/service/TargetService.java
+/Users/vibes/Desktop/practice-rest/src/main/java/vb/practice/rest/spring/boot/rest/TargetController.java
+/Users/vibes/Desktop/practice-rest/src/main/java/vb/practice/rest/spring/boot/rest/exception/NoTargetFoundException.java

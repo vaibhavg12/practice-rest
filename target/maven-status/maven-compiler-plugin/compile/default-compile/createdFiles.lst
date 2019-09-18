@@ -1,0 +1,10 @@
+vb/practice/rest/spring/boot/service/internal/TargetServiceImpl.class
+vb/practice/rest/spring/boot/model/Target.class
+vb/practice/rest/spring/boot/service/TargetService.class
+vb/practice/rest/spring/boot/rest/TargetController.class
+vb/practice/rest/spring/boot/rest/exception/NoTargetFoundException.class
+vb/practice/rest/spring/boot/rest/exception/PayloadSizeException.class
+vb/practice/rest/spring/boot/utils/MessageUtil.class
+vb/practice/rest/spring/boot/rest/exception/PreConditionException.class
+vb/practice/rest/spring/boot/PracticeRestApplication.class
+vb/practice/rest/spring/boot/repository/TargetRepository.class
